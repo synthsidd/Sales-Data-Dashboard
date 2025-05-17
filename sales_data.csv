@@ -1,0 +1,15 @@
+OrderID,Date,Product,Category,Region,Quantity,UnitPrice
+1001,2024-01-03,Smartphone,Electronics,North,2,500
+1002,2024-01-05,Laptop,Electronics,South,1,1000
+1003,2024-01-10,T-Shirt,Clothing,East,5,20
+1004,2024-02-15,TV,Electronics,West,1,800
+1005,2024-02-20,Jeans,Clothing,South,3,40
+1006,2024-03-03,Headphones,Electronics,North,4,150
+1007,2024-03-10,Shoes,Footwear,East,2,75
+1008,2024-04-01,T-Shirt,Clothing,North,7,20
+1009,2024-04-15,Smartwatch,Electronics,West,3,200
+1010,2024-05-05,Laptop,Electronics,South,2,1000
+1011,2024-05-12,Shoes,Footwear,East,4,75
+1012,2024-06-01,Jeans,Clothing,North,2,40
+1013,2024-06-08,Smartphone,Electronics,East,1,500
+1014,2024-06-20,TV,Electronics,West,1,800
