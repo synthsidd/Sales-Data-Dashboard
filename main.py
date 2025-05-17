@@ -1,3 +1,4 @@
+# Sales Data Dashboard
 import matplotlib
 matplotlib.use('TkAgg')
 
